@@ -1,4 +1,4 @@
-# -Pizza-Sales-Analysis-Dashboard : 🚀 Excited to share my latest Power BI project: Pizza Sales Analysis Dashboard! 🍕📊
+# 🚀 Excited to share my latest Power BI project: Pizza Sales Analysis Dashboard! 🍕📊
 
 I recently completed an end-to-end business intelligence project where I designed an interactive Power BI dashboard to analyze a pizza restaurant’s sales performance over the course of a year.
 This Power BI project analyzes pizza sales performance, highlighting key metrics like total sales, orders, and top-selling pizzas. Using DAX and Power Query, I created an interactive dashboard showcasing trends, peak hours, and product performance to drive business insights and strategic decision-making.
